@@ -11,6 +11,8 @@ public class Main {
 		System.out.println("Creo que no me sale2");
 		
 		System.out.println("Hey, Idea!");
+		System.out.println("Ofú, Idea");
+		
 		System.out.println("Me estoy perdiendo la clase...");
 
 		
